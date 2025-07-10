@@ -1,7 +1,7 @@
 #BRUTE FORCE
 
 arr=[1,2,5,8,6,9,4,5,78,8,5,8,5,8,5,8,5]
-sort_arr=arr.sort()
+arr.sort()
 n=len(arr)
 print("largest element",arr[n-1])
 
